@@ -5,6 +5,9 @@ function App() {
   return (
     <div className="App">
       <h1>Reducer App</h1>
+      <h1>Reducer App</h1>
+      <h1>Reducer App</h1>
+      <h1>Reducer App</h1>
     </div>
   );
 }
